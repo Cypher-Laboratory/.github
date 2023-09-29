@@ -3,7 +3,7 @@
 🔐 Welcome to Cypher Lab! We are dedicated to enhancing privacy in the WEB3 ecosystem through cutting-edge privacy solutions. Our mission is to shape a future where privacy is an integral part of the digital experience.
 
 ## 🌟 What We're About
-At Cypher Lab, we're on a mission to redefine privacy in the blockchain realm. Our flagship innovation, "Alice's Ring," leverages cryptographic techniques to enhance privacy and anonymity. With ring signatures, we offer a more efficient, scalable, and flexible alternative to zero-knowledge proofs (ZK proofs). We believe in upholding the principles of user privacy, data confidentiality, and blockchain security.
+At Cypher Lab, we're on a mission to redefine privacy in the blockchain realm. Our flagship innovation, "Alice's Ring," leverages cryptographic techniques to enhance privacy and anonymity. With ring signatures, we offer an efficient, scalable, and flexible way to generate proofs. We believe in upholding the principles of user privacy, data confidentiality, and blockchain security.
 
 ## 🤝 Contribution Guidelines
 We welcome the community to join us on our privacy-focused journey. Your contributions and insights can make a significant impact. Here's how you can get involved:
