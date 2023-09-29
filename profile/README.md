@@ -11,6 +11,10 @@ We welcome the community to join us on our privacy-focused journey. Your contrib
 - **Feedback:** Have ideas, suggestions, or feedback? Feel free to open an issue or reach out to us. Your input is valuable.
 
 ## 👩‍💻 Useful Resources
-- **EVM verifier for Alice's Ring ring signature.:** You can find our EVM verifier for Alice's Ring ring signature public repository [here](https://github.com/Cypher-Laboratory/EVM-Verifier). Watch for updates, issues, and discussions related to our work.
+- **EVM verifier for Alice's Ring ring signature:** You can find our EVM verifier for Alice's Ring ring signature public repository [here](https://github.com/Cypher-Laboratory/EVM-Verifier). Watch for updates, issues, and discussions related to our work.
+
+- **Cypher Lab's Website:** You can find our website [here](https://www.cypherlab.fr/)
+
+- **Alice's ring Website:** You can find the website dedicated to Alice's ring [here](https://www.alicesring.com/)
 
 Stay tuned for more exciting developments from Cypher Lab. Together, we can build a more private and secure Web3 ecosystem!
