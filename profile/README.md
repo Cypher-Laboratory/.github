@@ -2,8 +2,28 @@
 
 🔐 Welcome to Cypher Lab! We are dedicated to enhancing privacy in the WEB3 ecosystem through cutting-edge privacy solutions. Our mission is to shape a future where privacy is an integral part of the digital experience.
 
-## 🌟 What We're About
-At Cypher Lab, we're on a mission to redefine privacy in the blockchain realm. Our flagship innovation, "Alice's Ring," leverages cryptographic techniques to enhance privacy and anonymity. With ring signatures, we offer an efficient, scalable, and flexible way to generate proofs. We believe in upholding the principles of user privacy, data confidentiality, and blockchain security.
+## 🎯 ENHANCING WEB3 PRIVACY
+
+### Alice's Ring💍  
+
+At [Cypher Lab](https://www.cypherlab.fr/), Alice's Ring is our centerpiece, a TypeScript library enabling the generation of any form of proof. Around this algorithm, we are building a set of tools to aggregate data to produce tangible proofs. From that, numerous modules will emerge to cover all possible use cases.
+Alice's Ring ensures that your on-chain identity remains protected, keeping private your valuable assets, transaction history, and on-chain identity.
+
+* Chain agnostic :   
+Our solution enables the generation and utilization of proofs regardless of the blockchain or ecosystem you are using.  
+
+**Innovative:**  
+  
+Ring signatures have been a cryptographic technique known to cryptographers for several years, but their use within the Blockchain ecosystem has been limited. The Monero blockchain can be noted as the first blockchain to employ this cryptographic solution at the protocol level.
+However, there is currently no complete, robust, and audited implementation of ring signatures. This is where we come in!  
+  
+Our goal with Alice's Ring is to develop the first library implementing the ring signature process for the blockchain ecosystem and to develop, upon request, modules with specific use cases such as proof of solvency and proof of ownership...
+
+
+### What are ring signatures ?  
+Ring signatures are a type of digital signature that allows a group of users to sign a message anonymously. Unlike traditional digital signatures uniquely linked to one user, ring signatures obscure who specifically authored a message by linking multiple possible signers together in a "ring".  
+Ring signatures help preserve privacy and anonymity through obscuring the specific originator of a message. By grouping possible signers in a "ring", there is no way to definitively pinpoint the actual individual who authored the content. This prevents transactions from being easily traced back to a single user. The larger the ring of possible signers, the more anonymity is provided to the real originator.
+
 
 ## 🤝 Contribution Guidelines
 We welcome the community to join us on our privacy-focused journey. Your contributions and insights can make a significant impact. Here's how you can get involved:
