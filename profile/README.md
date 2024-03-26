@@ -14,8 +14,8 @@ Our solution enables the generation and utilization of proofs regardless of the 
 
 **Innovative:**  
   
-Ring signatures have been a cryptographic technique known to cryptographers for several years, but their use within the Blockchain ecosystem has been limited. The Monero blockchain can be noted as the first blockchain to employ this cryptographic solution at the protocol level.
-However, there is currently no complete, robust, and audited implementation of ring signatures. This is where we come in!  
+Ring signatures have been a cryptographic technique known to cryptographers for several years, but their use within the Blockchain ecosystem has been limited. The Monero blockchain can be noted as one of the first blockchain to employ this cryptographic solution at the protocol level.
+However, there is currently no complete, robust, and audited implementation of ring signatures adapted for browser environment. This is where we come in!  
   
 Our goal with Alice's Ring is to develop the first library implementing the ring signature process for the blockchain ecosystem and to develop, upon request, modules with specific use cases such as proof of solvency and proof of ownership...
 
