@@ -48,6 +48,7 @@ At Cypher Lab, our main objective is to provide you with innovative tools that a
 | Network    | Logo | Donation Address     |
 |------------|------|----------------------|
 | Ethereum   | <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ethereum" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| Scroll   | <img src="https://scrollscan.com/assets/scroll/images/svg/logos/chain-light.svg?v=24.6.3.0" alt="Scroll" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
 | Optimism   | <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=024" alt="Optimism" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
 | Arbitrum   | <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=024" alt="Arbitrum" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
 | Polygon    | <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=024" alt="Polygon" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
