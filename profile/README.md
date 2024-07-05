@@ -42,3 +42,18 @@ We welcome the community to join us on our privacy-focused journey. Your contrib
 Stay tuned for more exciting developments from Cypher Lab. Together, we can build a more private and secure Web3 ecosystem!
 
 
+## 🎁 Support our research ! 
+
+At Cypher Lab, our main objective is to provide you with innovative tools that allow you to explore new ways to enhance privacy in your on-chain or off-chain interactions. Our work is open-source and dedicated to you, the community. If you wish to support us, we accept crypto donations to support our project. The funds will primarily be used to finance future audits. Below are the supported networks and their respective donation addresses:
+
+| Network    | Logo | Donation Address     |
+|------------|------|----------------------|
+| Ethereum   | <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=024" alt="Ethereum" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| Scroll   | <img src="https://scrollscan.com/assets/scroll/images/svg/logos/chain-light.svg?v=24.6.3.0" alt="Scroll" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| Optimism   | <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=024" alt="Optimism" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| Arbitrum   | <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=024" alt="Arbitrum" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| Polygon    | <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=024" alt="Polygon" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
+| XRP        | <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=024" alt="XRP" width="30"/> | `rpg9b8RmqtozyiumbSAVEvPSDHTWQaiEr1` |
+| Bitcoin    | <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=024" alt="Bitcoin" width="30"/> | `bc1q4cuzmvylge0nghl585dpclukklk55k7xkhwxf2tn6khxtkspgkjqaev04h` |
+
+Thank you for your support!
