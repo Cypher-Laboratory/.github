@@ -53,7 +53,7 @@ At Cypher Lab, our main objective is to provide you with innovative tools that a
 | Optimism   | <img src="https://cryptologos.cc/logos/optimism-ethereum-op-logo.png?v=024" alt="Optimism" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
 | Arbitrum   | <img src="https://cryptologos.cc/logos/arbitrum-arb-logo.png?v=024" alt="Arbitrum" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
 | Polygon    | <img src="https://cryptologos.cc/logos/polygon-matic-logo.png?v=024" alt="Polygon" width="30"/> | `0x40B162a555641B04FCd0eeA1dA84482e745f82eb` |
-| XRP        | <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=024" alt="XRP" width="30"/> | `rpg9b8RmqtozyiumbSAVEvPSDHTWQaiEr1` |
+| XRPL       | <img src="https://cryptologos.cc/logos/xrp-xrp-logo.png?v=024" alt="XRP" width="30"/> | `rpg9b8RmqtozyiumbSAVEvPSDHTWQaiEr1` |
 | Bitcoin    | <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=024" alt="Bitcoin" width="30"/> | `bc1q4cuzmvylge0nghl585dpclukklk55k7xkhwxf2tn6khxtkspgkjqaev04h` |
 
 Thank you for your support!
